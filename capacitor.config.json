@@ -1,0 +1,9 @@
+ {
+‏ "appId": "com.blnd.app",
+ "appName": "Blnd App",
+ "webDir": "www",
+ "server": {
+ "url": "https://bio.link/blndrekani1",
+ "cleartext": true
+ }
+ }
